@@ -1,8 +1,5 @@
 # Gremlin
 
-## Contact
-gremlin.sro@protonmail.com
-
 ## Employees
 [Tomas Hakel](https://www.linkedin.com/in/tomas-hakel)
 
